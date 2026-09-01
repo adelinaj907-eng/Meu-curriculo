@@ -247,3 +247,13 @@ button[type="submit"]:hover {
     content: "✦ ";
     color: var(--cor-destaque);
 }
+.video-wrapper {
+    margin: var(--espaco-grande) auto;
+    max-width: 560px;
+}
+
+.video-wrapper iframe {
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    border-radius: 8px;
+}
