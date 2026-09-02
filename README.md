@@ -1,7 +1,7 @@
 # Site de Currículo Pessoal — Adelina Jorge
 
 ## Sobre o Projeto
-Site pessoal de currículo (portfólio), desenvolvido em HTML5 e CSS3 puro, sem frameworks nem JavaScript, como Trabalho Prático I da disciplina de Programação de Design Web, 2º ano de Licenciatura em Informática, Universidade Zambeze.
+Site pessoal de currículo (portfólio), desenvolvido em HTML5 e CSS3 puro, sem frameworks nem JavaScript, como Trabalho Prático I da disciplina de Programação de Design Web, 2º ano de Licenciatura em Informática, Universidade Licungo.
 
 **Estudante:** Adelina Jorge
 **Turma:** 1
