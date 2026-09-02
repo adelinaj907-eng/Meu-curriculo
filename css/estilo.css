@@ -257,3 +257,30 @@ button[type="submit"]:hover {
     aspect-ratio: 16 / 9;
     border-radius: 8px;
 }
+nav > ul > li {
+    list-style: none;
+}
+
+.hero h2 + p {
+    margin-top: var(--espaco-pequeno);
+}
+
+.portfolio-grid .card:nth-child(even) {
+    background-color: #f0f0f0;
+}
+
+.hobbies-lista .hobby-item:first-child {
+    border-top: 3px solid var(--cor-destaque);
+}
+
+.hobbies-lista .hobby-item:last-child {
+    border-bottom: 3px solid var(--cor-destaque);
+}
+
+header {
+    background: linear-gradient(135deg, var(--cor-principal), #1a2a3a);
+}
+
+.hero {
+    min-height: 60vh;
+}
